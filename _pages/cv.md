@@ -11,30 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Geophysics, University of Science and Technology of China, Hefei, 2019-2024
-* B.S. in Geophysics, China University of Geosciences, Wuhan, 2015-2019
+* Ph.D in Geophysics, University of Science and Technology of China, Hefei, 2024
+* B.S. in Geophysics, China University of Geosciences, Wuhan, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2024: Postdoctoral Researcher
+  * University of Science and Technology of China
+  * Supervisor: Prof. Zhenpeng Su
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Data analysis 
+* Numerical simulation on the propagation of plasma waves in planetary magnetosphere
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
@@ -46,17 +35,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
-Teaching
+Awards
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Outstanding Young Paper Award of the 19th National Symposium on Solar-Terrestrial Physics (2021)
+* National Scholarship for Master’s Students (2021)
+* 
+
   
 Service and leadership
 ======
