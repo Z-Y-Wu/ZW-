@@ -1,3 +1,5 @@
+Wu, Z., Su, Z., Liu, N., Gao, Z., Zheng, H., Wang, Y., & Wang, S. (2021). Off-equatorial source of magnetosonic waves extending above the lower hybrid resonance frequency in the inner magnetosphere. Geophysical Research Letters, 48, e2020GL091830.
+
 ---
 title: "Off-Equatorial Source of Magnetosonic Waves Extending Above the Lower Hybrid Resonance Frequency in the Inner Magnetosphere"
 collection: publications
