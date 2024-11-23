@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Off-Equatorial Source of Magnetosonic Waves Extending Above the Lower Hybrid Resonance Frequency in the Inner Magnetosphere"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
