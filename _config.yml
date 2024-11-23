@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "person.jpg"
   name             : "Zhiyong Wu (吴志勇)"
-  pronouns         : "Dr."  
+  #pronouns         : "Dr."  
   bio              : "Postdoctoral researcher"
   location         : "Hefei, Anhui, China"
   employer         : "USTC"
