@@ -9,12 +9,6 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-
-<strong>Wu, Z.</strong>, Su, Z., Liu, N., Gao, Z., Zheng, H., Wang, Y., & Wang, S. (2021). Off-equatorial source of magnetosonic waves extending above the lower hybrid resonance frequency in the inner magnetosphere. <i>Geophysical Research Letters</i>, 48, e2020GL091830.<br>
-<strong>Wu, Z.</strong>, Su, Z. (2021). Transit-time scattering of radiation belt electrons by off-equatorially generated magnetosonic waves. <i>Journal of University of Science and Technology of China</i>, 2021, 51(6): 453-458.
-
-
-
 {% include base_path %}
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
@@ -22,7 +16,6 @@ author_profile: true
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
-<strong>Wu, Z.</strong>, Su, Z., Liu, N., Gao, Z., Zheng, H., Wang, Y., & Wang, S. (2021). Off-equatorial source of magnetosonic waves extending above the lower hybrid resonance frequency in the inner magnetosphere. <i>Geophysical Research Letters</i>, 48, e2020GL091830.<br>
         {% continue %}
       {% endif %}
 <!--      {% unless title_shown %} -->
