@@ -22,12 +22,8 @@ Work experience
   
 Skills
 ======
-* Data analysis 
+* Data analysis (on electromagnetic field, particle data collected by space satellite missions)
 * Numerical simulation on the propagation of plasma waves in planetary magnetosphere
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -40,7 +36,11 @@ Awards
 ======
 * Outstanding Young Paper Award of the 19th National Symposium on Solar-Terrestrial Physics (2021)
 * National Scholarship for Master’s Students (2021)
-* 
+* National Scholarship for Doctoral Students (2023)
+* Outstanding Doctoral Dissertation Nomination Award of University of Science and Technology of China (2024)
+* President’s Award of the Chinese Academy of Sciences (2024)
+* Outstanding Graduate of University of Science and Technology of China (2024)
+* Outstanding Graduate of Anhui Province (2024)
 
   
 Service and leadership
