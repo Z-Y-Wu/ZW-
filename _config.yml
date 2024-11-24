@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhiyong Wu's page"
+title                    : "Zhiyong Wu's homepage"
 title_separator          : "-"
 name                     : &name "Zhiyong Wu"
 description              : &description "personal description"
