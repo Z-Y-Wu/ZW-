@@ -16,14 +16,14 @@ Education
 
 Work experience
 ======
-* 2024: Postdoctoral Researcher
+* Postdoctoral Researcher, 2024-
   * University of Science and Technology of China
   * Supervisor: Prof. Zhenpeng Su
   
 Skills
 ======
-* Data analysis (on electromagnetic field, particle data collected by space satellite missions)
-* Numerical simulation on the propagation of plasma waves in planetary magnetosphere
+* Data analysis (Electromagnetic field & particle data collected by space satellite missions)
+* Numerical simulation (Generation and propagation of plasma waves in planetary magnetosphere)
 
 Publications
 ======
@@ -56,5 +56,8 @@ Awards
 * Outstanding Graduate of University of Science and Technology of China (2024)
 * Outstanding Graduate of Anhui Province (2024)
 
-  
+Funding
+======
+[2] Postdoctoral Fellowship Program of China Postdoctoral Science Foundation, GZB20240701, 2024-2026, Generation, Propagation, and Effects of Hiss Waves in the Earth’s Plasmaspheric Plume, <strong>Principal Investigator</strong><br><br>
+[1] National Natural Science Foundation of China, Key Project, 42130204, 2022.01-2026.12, Mars Space Magnetic Field Research Based on Tianwen-1 Orbiter Magnetometer Data, <strong>Participant</strong> 
 
