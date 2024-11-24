@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Introduction"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+<h1>Introduction></h1>
 I am a postdoctoral researcher at the School of Earth and Space Sciences, University of Science and Technology of China (USTC). I earned my BS degree in Geophysics from China University of Geosciences, Wuhan, and my PhD in Geophysics from USTC.
 As part of the <a href="https://step.ustc.edu.cn/">Solar-Terrestrial Exploration & Physics (STEP)</a> team, I work under the collaborative supervision of Prof. Zhenpeng Su. My current research focuses on several key projects:
 ---
