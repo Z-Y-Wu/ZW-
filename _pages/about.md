@@ -6,13 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<h1>Introduction></h1>
-I am a postdoctoral researcher at the School of Earth and Space Sciences, University of Science and Technology of China (USTC). I earned my BS degree in Geophysics from China University of Geosciences, Wuhan, and my PhD in Geophysics from USTC.
+<h1>Introduction</h1>
+I am a postdoctoral researcher at the School of Earth and Space Sciences, University of Science and Technology of China (USTC). I earned my BS degree in Geophysics from China University of Geosciences, Wuhan, and my PhD in Geophysics from USTC.<br>
 As part of the <a href="https://step.ustc.edu.cn/">Solar-Terrestrial Exploration & Physics (STEP)</a> team, I work under the collaborative supervision of Prof. Zhenpeng Su. My current research focuses on several key projects:
----
+
 * <b>Generation, Propagation, and Effects of Hiss Waves in the Plasmaspheric Plume</b>: This project explores the mechanisms behind the generation and propagation of hiss waves within the plasmaspheric plume and their impacts on the surrounding plasma environment.
-* The Influence of the Oxygen Torus on Low-Frequency Plasma Waves: This study investigates how the oxygen torus affects the behavior of low-frequency plasma waves, contributing to our understanding of ionospheric and magnetospheric dynamics.
-* Numerical Modeling of Wave Propagation in Multi-Scale Plasma Structures in Martian and Earth's Magnetospheres: This project involves developing numerical models to simulate the propagation of waves through complex, multi-scale plasma structures in both the Martian and Earth's magnetospheres, providing insights into the basic behaviors of planetary plasma waves.
+* <b>The Influence of the Oxygen Torus on Low-Frequency Plasma Waves</b>: This study investigates how the oxygen torus affects the behavior of low-frequency plasma waves, contributing to our understanding of ionospheric and magnetospheric dynamics.
+* <b>Numerical Modeling of Wave Propagation in Multi-Scale Plasma Structures in Martian and Earth's Magnetospheres</b>: This project involves developing numerical models to simulate the propagation of waves through complex, multi-scale plasma structures in both the Martian and Earth's magnetospheres, providing insights into the basic behaviors of planetary plasma waves.
 
 <!--This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
