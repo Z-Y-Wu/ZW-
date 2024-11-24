@@ -57,6 +57,4 @@ Awards
 * Outstanding Graduate of Anhui Province (2024)
 
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
