@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <h1>Introduction</h1>
-I am a postdoctoral researcher at the School of Earth and Space Sciences, University of Science and Technology of China (<a href="https://en.ustc.edu.cn/">USTC</a>). I earned my BS degree in Geophysics from China University of Geosciences, Wuhan in 2019, and my PhD in Geophysics from USTC in 2024.<br><br>
+I am a postdoctoral researcher at the School of Earth and Space Sciences, University of Science and Technology of China (<a href="https://en.ustc.edu.cn/">USTC</a>). I obtained my BS degree in Geophysics from China University of Geosciences, Wuhan in 2019, and my PhD in Geophysics from USTC in 2024.<br><br>
 As part of the <a href="https://step.ustc.edu.cn/">Solar-Terrestrial Exploration & Physics (STEP)</a> team, I work under the collaborative supervision of <a href="https://en.ess.ustc.edu.cn/2021/0721/c27106a517933/page.htm">Prof. Zhenpeng Su</a>. My current research focuses on several key projects:
 
 * <b>Generation, Propagation, and Effects of Hiss Waves in the Plasmaspheric Plume</b>: This project explores the mechanisms behind the generation and propagation of hiss waves within the plasmaspheric plume and their impacts on the surrounding plasma environment.
