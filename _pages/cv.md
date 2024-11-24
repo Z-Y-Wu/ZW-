@@ -22,7 +22,7 @@ Work experience
   
 Skills
 ======
-* Data analysis (Electromagnetic field & particle data collected by space satellite missions)
+* Data processing and analysis (Electromagnetic field & particle data from space satellite missions)
 * Numerical simulation (Generation and propagation of plasma waves in planetary magnetosphere)
 
 Publications
