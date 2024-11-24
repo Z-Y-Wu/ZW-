@@ -1,0 +1,11 @@
+- title: "Research Project 1"
+  image: "/images/project1.jpg"
+  description: "This is a description of the first research project. It focuses on XYZ."
+  
+- title: "Research Project 2"
+  image: "/images/project2.jpg"
+  description: "This project investigates ABC and explores new methodologies in the field."
+
+- title: "Research Project 3"
+  image: "/images/project3.jpg"
+  description: "A project focused on advanced computational techniques and their applications."
