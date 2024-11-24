@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I'm a a postdoctoral researcher at the School of Earth and Space Sciences, University of Science and Technology of China. I receive my BS degree in Geophysics from China University of Geosciences, Wuhan, and PhD degree in Geophysics from University of Science and Technology of China. 
-I'm in Solar-Terrestrial Exploration & Physics (STEP) team and my collaborative supervisor is Prof. Zhenpeng Su. 
+I'm in <a href="https://step.ustc.edu.cn/">Solar-Terrestrial Exploration & Physics (STEP)</a> team and my collaborative supervisor is Prof. Zhenpeng Su. 
 
 <!--This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
