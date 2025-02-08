@@ -28,7 +28,7 @@ Skills
 Publications
 ======
 [19] <strong>Wu, Z.</strong>, Su, Z.*, Zheng, H., & Wang, Y. (2024). Inner Magnetospheric Oxygen Torus Induced by Electromagnetic Ion Cyclotron Waves. <i>Geophysical Research Letters</i>, accepted.<br><br>
-[18]
+[18] Ding, X., He, Z.*, <strong>Wu, Z.</strong>*, Yu, J., Li, K., Ye, Y., & Zong, Q. (2025). Radial and latitudinal distributions of the exohiss under the effect of Landau damping. Geophysical Research Letters, 52, e2024GL112567. <a href="https://doi.org/10.1029/2024GL112567">[Link of this article]</a><br><br>
 [17] <strong>Wu, Z.</strong>, Su, Z., Zheng, H., Wang, Y., Miyoshi, Y., Shinohara, I., et al. (2024). Long lifetime hiss rays in the disturbed plasmasphere. <i>Geophysical Research Letters</i>, 51, e2023GL107825. <a href="https://doi.org/10.1029/2023GL107825">[Link of this article]</a><br><br>
 [16] <strong>Wu, Z.</strong>, Su, Z., Zheng, H., & Wang, Y. (2023). Filtering of magnetosonic waves by mesoscale plasmaspheric density interfaces. <i>Geophysical Research Letters</i>, 50, e2023GL103590. <a href="https://doi.org/10.1029/2023GL103590">[Link of this article]</a><br><br>
 [15] <strong>Wu, Z.</strong>, Su, Z., He, Z., Zheng, H., & Wang, Y. (2022). Magnetosonic waves above the lower hybrid frequency in cyclotron resonance with the Van Allen radiation belt electrons. <i>Geophysical Research Letters</i>, 49, e2022GL100971. <a href="https://doi.org/10.1029/2022GL100971">[Link of this article]</a><br><br>
